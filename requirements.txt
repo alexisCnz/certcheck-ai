@@ -1,8 +1,8 @@
 # Framework Web y UI
 streamlit>=1.35.0
 
-# SDK de IA / LLM
-google-generativeai>=0.8.0
+# SDK Oficial de IA / LLM de Google
+google-genai>=0.8.0
 
 # Validación de esquemas y tipado de datos
 pydantic>=2.7.0
