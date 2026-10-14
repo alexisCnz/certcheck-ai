@@ -1,0 +1,25 @@
+# Framework Web y UI
+streamlit>=1.35.0
+
+# SDK de IA / LLM
+google-generativeai>=0.8.0
+
+# Validación de esquemas y tipado de datos
+pydantic>=2.7.0
+
+# Manejo de configuración y variables de entorno
+python-dotenv>=1.0.1
+
+# Procesamiento de documentos PDF
+pdfplumber>=0.11.0
+pypdf>=4.2.0
+reportlab>=4.2.0
+
+# Algoritmos de similitud de cadenas (para seriales y PNs sospechosos)
+Levenshtein>=0.25.0
+
+# Manejo de datos y exportación
+pandas>=2.2.0
+
+# Pruebas unitarias
+pytest>=8.2.0
